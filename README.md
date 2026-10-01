@@ -51,6 +51,7 @@ LichtFeld Studio  →  3D Gaussian Splatting
 
 - Windows 10 / 11 (64-bit)
 - NVIDIA GPU (recommended for 3DGS training)
+- CUDA 12 runtime
 
 ---
 
